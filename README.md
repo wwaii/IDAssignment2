@@ -28,7 +28,7 @@ I had also made changes to my final project, compared to the wireframe version, 
 - The text for script.js was referenced from [Bootstrap Studio](https://bootstrapstudio.io)
 - Related Data used in the project is provided by [Data.gov.sg](https://data.gov.sg)
 ### Media
-- The photos used in this site were obtained from [Unplash] (https://unsplash.com)
+- The photos used in this site were obtained from [Unplash](https://unsplash.com)
   - https://unsplash.com/photos/ZRsJmpt9pNI
   - https://unsplash.com/photos/Udnbeto77wY
 ### Acknowledgements
