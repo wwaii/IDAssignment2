@@ -12,7 +12,7 @@ I had also made changes to my final project, compared to the wireframe version, 
 - Feature 1 - weather map - allow users to check the current weather of the location
 - Feature 2 - traffic map - allow users to check the road traffic situation with help of an image
 - Feature 3 - car park availability map - allow users to check the availability of selected car park
-- 
+
 ## Technologies Used
 - [JQuery](https://jquery.com)
     - The project uses **JQuery** to simplify DOM manipulation.
@@ -22,7 +22,7 @@ I had also made changes to my final project, compared to the wireframe version, 
     - The project uses **GoogleFonts** to add more fonts to the text.
 - [Normalize.css](https://necolas.github.io/normalize.css)
     - The project uses **Normalize.css** to have cross-browser consistency in the default styling of HTML elements.
-    - 
+    
 ## Credits
 ### Content
 - The text for script.js was referenced from [Bootstrap Studio](https://bootstrapstudio.io)
