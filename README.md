@@ -2,7 +2,7 @@
 Anywhere Go is an application to help user to better prepared before they leave their house to their target destination.  
 
 ## Design Process
-This website is for userswho which to travel, by car, to gather more information before they make their move.
+This website is for userswho which to travel, by car, to gather more information before they make their move.__
 User Stories:
 - As a driver who wish to go to a place, I want to know more about the more information about the location and the trip, so that I can make a more wise decision, of to go or not to go.
 
@@ -32,4 +32,7 @@ I had also made changes to my final project, compared to the wireframe version, 
   - https://unsplash.com/photos/ZRsJmpt9pNI
   - https://unsplash.com/photos/Udnbeto77wY
 ### Acknowledgements
-- I received inspiration for this project from YoonTeng (Y2 IT student), and helps from my tutor (Ms. Dai Mei Hua).
+- I received inspiration for this project from YoonTeng (Y2 IT student), and helps from my tutor (Ms. Dai Mei Hua).__
+<br />
+- github repo - https://github.com/wwaii/IDAssignment2
+- github link - https://wwaii.github.io/IDAssignment2
