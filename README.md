@@ -1,3 +1,5 @@
+(https://wwaii.github.io/IDAssignment2)
+<br/>
 # Anywhere Go
 Anywhere Go is an application to help user to better prepared before they leave their house to their target destination.  
 
@@ -33,6 +35,3 @@ I had also made changes to my final project, compared to the wireframe version, 
   - https://unsplash.com/photos/Udnbeto77wY
 ### Acknowledgements
 - I received inspiration for this project from YoonTeng (Y2 IT student), and helps from my tutor (Ms. Dai Mei Hua).
-<br />
-- github repo - https://github.com/wwaii/IDAssignment2<br />
-- github link - https://wwaii.github.io/IDAssignment2
